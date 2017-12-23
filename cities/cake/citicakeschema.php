@@ -74,7 +74,7 @@ $jsonlitstring = '<script type=\'application/ld+json\'>
     },
 	"author" : "Cake shop"
   },
-  "priceRange" : "₹550 - ₹5540",
+  "priceRange" : "₹349 - ₹5540",
   "hasMap": "http://www.google.co.in/maps/@'.$row['latitude'].'.'.$row['longitude'].'",
   "openingHours": "Mo 08:00-21:30 Tu, We, Th, Fr, Sa, Su -"
  
@@ -102,7 +102,7 @@ $schema_tag = '	<div itemscope itemtype="http://schema.org/Bakery">
 
 
 
-                            <meta itemprop="priceRange" content="699 INR to 5499 INR">
+                            <meta itemprop="priceRange" content="349 INR to 5499 INR">
                             <meta itemprop="legalName" content="Emotiongift.com">
                             <span itemprop="founder" itemscope itemtype="http://schema.org/Person">
                                 <meta itemprop="familyName" content="Udapure">
